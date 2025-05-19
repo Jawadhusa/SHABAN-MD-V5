@@ -1,7 +1,7 @@
 {
   "name": "IsHaQ-MD",
   "description": "Javascript WhatsApp bot made by MR-SHABAN",
-  "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
+  "logo": "",
   "keywords": ["IsHaQ-MD"],
   "success_url": "/",
 
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~2YEQVYYB#fCFg4dSn1CDb0mzmBCHD6CeX3bha-u2XhKulfvDbQlI"
     },  
     
     "STICKER_NAME": {
