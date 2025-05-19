@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
+  "name": "IsHaQ-MD",
   "description": "Javascript WhatsApp bot made by MR-SHABAN",
   "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": ["IsHaQ-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "الستيكر ذا بتاع جواد اللي يسرقو gay"
     }, 
       
     "PREFIX": {
@@ -36,7 +36,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -78,28 +78,28 @@
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
-      "value": "*🪩SEEN YOUR STATUS SHABAN-MD🪩*"
+      "required": false,
+      "value": "*🪩SEEN YOUR STATUS IsHaQ-MD🪩*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "Jawad"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "923043788282"
+      "value": "212637915359"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "IsHaQ-MD"
 
       }, 
 
@@ -119,7 +119,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴊᴀᴡᴀᴅ*"
     },
 
       "DELETE_LINKS": {
